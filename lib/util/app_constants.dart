@@ -5,7 +5,7 @@ import 'package:ride_sharing_user_app/util/images.dart';
 
 class AppConstants {
   static const String appName = 'DriveMond';
-  static const String baseUrl = 'https://taxi-gateway.bs-new.com/';
+  static const String baseUrl = 'https://taxi-gateway.bs-new.com';
   static const double appVersion = 3.0; /// Flutter SDK 3.38.7
   static const String fontFamily = 'SFProText';
   static const double coverageRadiusInMeter = 50;
