@@ -1,0 +1,203 @@
+{
+  "project_info": {
+    "project_number": "974536122880",
+    "firebase_url": "https://foodme-a57aa-default-rtdb.firebaseio.com",
+    "project_id": "foodme-a57aa",
+    "storage_bucket": "foodme-a57aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974536122880:android:8b1f967626c200aa0feee5",
+        "android_client_info": {
+          "package_name": "com.foodme.foodmedelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974536122880-mqmpkgb6l4h7ai0m0ispd8gc96rmc4ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf6xOPWBZSgAD8E_g4jpbSBis-jhIIhOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974536122880-a6ujgvkcss2450elflhrpndsgpg7s3dn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974536122880-20quae5os06ifiseobfbteer0f3sndlk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.u6amtech.flutterRestaurant"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974536122880:android:e4f2953ed8fc62c80feee5",
+        "android_client_info": {
+          "package_name": "com.foodme.foodmeuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974536122880-96o78q71piu72v8dhpnq5i6lcem2fd0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodme.foodmeuser",
+            "certificate_hash": "da911181b1c8b3d7008fb5f578ad088a2f190c97"
+          }
+        },
+        {
+          "client_id": "974536122880-dc3udltptvu2bog5usn984i546jr3oub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodme.foodmeuser",
+            "certificate_hash": "f7b0e801175ffe735c854312835ff6a481e17868"
+          }
+        },
+        {
+          "client_id": "974536122880-koajjt3563hjfjn9mcjl7md1id2kns2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodme.foodmeuser",
+            "certificate_hash": "8ed8b0e7f47db90c447998fc475b73402b4ebbb4"
+          }
+        },
+        {
+          "client_id": "974536122880-nc3keuf1dttj6g9ou39cap26d1ctla1f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodme.foodmeuser",
+            "certificate_hash": "95e4bd5d8673d36ad7f47da41ca306e5bdf5c9b1"
+          }
+        },
+        {
+          "client_id": "974536122880-o5s222lq3sap69n2um7g7r25ar5rimip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodme.foodmeuser",
+            "certificate_hash": "a12b83aae44b9b2a985c65b1df9dd8ed810cd8dd"
+          }
+        },
+        {
+          "client_id": "974536122880-mqmpkgb6l4h7ai0m0ispd8gc96rmc4ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf6xOPWBZSgAD8E_g4jpbSBis-jhIIhOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974536122880-a6ujgvkcss2450elflhrpndsgpg7s3dn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974536122880-20quae5os06ifiseobfbteer0f3sndlk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.u6amtech.flutterRestaurant"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974536122880:android:d8aec4817be15d900feee5",
+        "android_client_info": {
+          "package_name": "com.foodme.foodmevandor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974536122880-mqmpkgb6l4h7ai0m0ispd8gc96rmc4ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf6xOPWBZSgAD8E_g4jpbSBis-jhIIhOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974536122880-a6ujgvkcss2450elflhrpndsgpg7s3dn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974536122880-20quae5os06ifiseobfbteer0f3sndlk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.u6amtech.flutterRestaurant"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974536122880:android:ae11b16ba0e1910d0feee5",
+        "android_client_info": {
+          "package_name": "taxi.gusi.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974536122880-tf3cd2l3jl4tvo47nv2ssstjmphf7lfc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "taxi.gusi.com",
+            "certificate_hash": "a12b83aae44b9b2a985c65b1df9dd8ed810cd8dd"
+          }
+        },
+        {
+          "client_id": "974536122880-mqmpkgb6l4h7ai0m0ispd8gc96rmc4ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf6xOPWBZSgAD8E_g4jpbSBis-jhIIhOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974536122880-a6ujgvkcss2450elflhrpndsgpg7s3dn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974536122880-20quae5os06ifiseobfbteer0f3sndlk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.u6amtech.flutterRestaurant"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
